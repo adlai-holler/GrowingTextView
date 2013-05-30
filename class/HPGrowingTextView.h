@@ -78,7 +78,7 @@
 @property int minNumberOfLines;
 @property BOOL animateHeightChange;
 @property NSTimeInterval animationDuration;
-@property (nonatomic, strong) UITextView *internalTextView;	
+@property (nonatomic, strong) HPTextViewInternal *internalTextView;
 
 
 //uitextview properties
