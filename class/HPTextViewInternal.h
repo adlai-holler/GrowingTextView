@@ -26,7 +26,7 @@
 //	THE SOFTWARE.
 
 #import <UIKit/UIKit.h>
-
+#import "SSTextView.h"
 
 @interface HPTextViewInternal : SSTextView {
 }
